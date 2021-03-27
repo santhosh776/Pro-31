@@ -51,5 +51,6 @@ function spawnObstacles() {
       default: break;
     }   
     thunder.scale=random(0.3,0.6)
+    thunder.LifeTime=100
   }
 }
